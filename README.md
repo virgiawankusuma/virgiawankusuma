@@ -1,10 +1,10 @@
 ### Hello World!
+<!--
 <ul>
   <li><a href="https://www.linkedin.com/in/virgiawankusuma/" target="_blank">In</a></li>
   <li><a href="https://www.instagram.com/virgiawankusuma/" target="_blank">IG</a></li>
   <li><a href="https://www.youtube.com/channel/UCFJHRxqnGJw1A9AKG0Xq8gA" target="_blank">YT</a></li>
 </ul>
-<!--
 **virgiawankusuma/virgiawankusuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
