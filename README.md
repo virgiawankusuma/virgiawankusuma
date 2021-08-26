@@ -1,4 +1,4 @@
-### Hello World!
+<!-- ### Hello World! -->
 <!--
 <ul>
   <li><a href="https://www.linkedin.com/in/virgiawankusuma/" target="_blank">In</a></li>
@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua! 
+
+Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
+
+Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/virgiawankusuma/)ku ya.
