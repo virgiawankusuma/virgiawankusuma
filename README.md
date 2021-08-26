@@ -24,10 +24,10 @@ Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
 Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).
 
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/virgiawankusuma">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virgiawankusuma&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virgiawankusuma&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
@@ -35,4 +35,4 @@ Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).
 - <a href="https://linkedin.com/in/virgiawankusuma/">LinkedIn</a>
 - <a href="https://virgiawan.id">virgiawan.id</a>
 - m218r6173@dicoding.org
-- <a href="https://twitter/virgiawankusuma">Twitter</a>
+- <a href="https://twitter.com/virgiawankusuma">Twitter</a>
