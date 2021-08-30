@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # Halo semua! 
 
 Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
-Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **sebagian text hilang..**
 
 ### Github Statistic
 <p align="left">
