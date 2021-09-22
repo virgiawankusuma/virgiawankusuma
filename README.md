@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Halo semua! 
-
-Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
-Saya seorang **sebagian text hilang..**
+# Hello, 
+Introduce my name **Virgiawan Teguh Kusuma**. 
+I am a **part of the text is missing..** 
+<!-- Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
+Saya seorang **sebagian text hilang..** -->
 
 ### Github Statistic
 <p align="left">
