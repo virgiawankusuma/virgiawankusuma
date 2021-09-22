@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello, 
-Introduce my name **Virgiawan Teguh Kusuma**. 
-I am a **part of the text is missing..** 
+A young person who likes to explore everything.
 <!-- Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
 Saya seorang **sebagian text hilang..** -->
 
