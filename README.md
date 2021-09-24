@@ -44,5 +44,5 @@ Saya seorang **sebagian text hilang..** -->
 ### Reach me on
 - [LinkedIn](https://linkedin.com/in/virgiawankusuma/)
 - [Blog](https://virgiawan.id)
-- [Email](mailto:m218r6173@dicoding.org)
+- [Email](m218r6173@dicoding.org)
 - [Twitter](https://twitter.com/virgiawankusuma)
