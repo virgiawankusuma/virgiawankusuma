@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello, 
+My name is Virgiawan Teguh Kusuma.  
 I'm a young soul who desires to try everything.
 <!-- Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
 Saya seorang **sebagian text hilang..** -->
@@ -41,7 +42,7 @@ Saya seorang **sebagian text hilang..** -->
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/virgiawankusuma/">LinkedIn</a>
-- <a href="https://virgiawan.id">virgiawan.id</a>
-- m218r6173@dicoding.org
-- <a href="https://twitter.com/virgiawankusuma">Twitter</a>
+- [LinkedIn](https://linkedin.com/in/virgiawankusuma/)
+- [Blog](https://virgiawan.id)
+- [Email](mailto:m218r6173@dicoding.org)
+- [Twitter](https://twitter.com/virgiawankusuma)
