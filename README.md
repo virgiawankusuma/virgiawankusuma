@@ -25,7 +25,7 @@ Currently learning on Machine Learning & Front-End Web Developer at [Dicoding In
 <!-- Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
 Saya seorang **sebagian text hilang..** -->
 
-### Tech Stack
+<!-- ### Tech Stack
 <a href="html.com"><img align="left" alt="HTML5" title="HTML5" width="21px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" /></a>
 <a href="#"><img align="left" alt="CSS3" title="CSS3" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /></a>
 <a href="javascript.com"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" /></a>
@@ -33,7 +33,7 @@ Saya seorang **sebagian text hilang..** -->
 <a href="bootstrap.com"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" /></a>
 <a href="codeigniter.com"><img align="left" alt="CodeIgniter" title="CodeIgniter" width="21px" src="https://www.shareicon.net/data/2015/10/11/119658_development_431x512.png" /></a>
 <br>
-<br>
+<br> -->
 
 ### Github Statistic
 <p align="left">
