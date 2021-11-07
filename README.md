@@ -37,14 +37,18 @@ Saya seorang **sebagian text hilang..** -->
 
 ### Github Statistic
 <p align="left">
-<!-- <a href="https://github.com/virgiawankusuma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/> -->
+<a href="https://github.com/virgiawankusuma">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virgiawankusuma&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
 ### Reach me on
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
+
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/)
+<!-- 
 - [LinkedIn](https://linkedin.com/in/virgiawankusuma/)
 - [Blog](https://virgiawan.id)
 - [Email](mailto:m218r6173@dicoding.org)
-- [Twitter](https://twitter.com/virgiawankusuma)
+- [Twitter](https://twitter.com/virgiawankusuma) -->
