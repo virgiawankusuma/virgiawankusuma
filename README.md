@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 # Hello, 
 My name is Virgiawan Teguh Kusuma.  
-Currently learning on Machine Learning & Front-End Web Developer at [Dicoding Indonesia](dicoding.com)
+Learnering Machine Learning and Front-End Web Developer at [Dicoding Indonesia](dicoding.com) as part of Studi Independen Bersertifikat (SIB) Kampus Merdeka Program.
+<!-- Currently learning on Machine Learning & Front-End Web Developer at [Dicoding Indonesia](dicoding.com) -->
 <!-- I'm a young soul who desires to try everything. -->
 <!-- Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
 Saya seorang **sebagian text hilang..** -->
