@@ -38,7 +38,7 @@ Saya seorang **sebagian text hilang..** -->
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/virgiawankusuma">
+<a href="#">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virgiawankusuma&layout=compact&langs_count=8&theme=buefy"/>
 </a>
