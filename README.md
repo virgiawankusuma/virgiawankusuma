@@ -3,9 +3,9 @@ My name is Virgiawan Teguh Kusuma.
 🌱 I’m currently learning in ZettaCamp Batch 2, provided by Zettabyte Pte. Ltd. as **Front End Developer**.  
 📫 How to reach me:
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
+[<img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/).  
 ### Github Statistic
 <p align="left">
 <a href="#">
