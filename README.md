@@ -1,3 +1,19 @@
+# Hello, 
+My name is Virgiawan Teguh Kusuma.  
+🌱 I’m currently learning in ZettaCamp Batch 2, provided by Zettabyte Pte. Ltd. as **Front End Developer**.  
+📫 How to reach me:
+
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
+
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/).  
+### Github Statistic
+<p align="left">
+<a href="#">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virgiawankusuma&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
 <!-- ### Hello World! -->
 <!--
 <ul>
@@ -18,9 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, 
-My name is Virgiawan Teguh Kusuma.  
-Learnering Machine Learning and Front-End Web Developer at [Dicoding Indonesia](dicoding.com) as part of Studi Independen Bersertifikat (SIB) Kampus Merdeka Program.
+<!-- Learnering Machine Learning and Front-End Web Developer at [Dicoding Indonesia](dicoding.com) as part of Studi Independen Bersertifikat (SIB) Kampus Merdeka Program. -->
 <!-- Currently learning on Machine Learning & Front-End Web Developer at [Dicoding Indonesia](dicoding.com) -->
 <!-- I'm a young soul who desires to try everything. -->
 <!-- Perkenalkan nama saya **Virgiawan Teguh Kusuma**.
@@ -36,18 +50,10 @@ Saya seorang **sebagian text hilang..** -->
 <br>
 <br> -->
 
-### Github Statistic
-<p align="left">
-<a href="#">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virgiawankusuma&layout=compact&langs_count=8&theme=buefy"/>
-</a>
-</p>
-
-### Reach me on
+<!-- ### Reach me on
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/) -->
 <!-- 
 - [LinkedIn](https://linkedin.com/in/virgiawankusuma/)
 - [Blog](https://virgiawan.id)
