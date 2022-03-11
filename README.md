@@ -1,4 +1,4 @@
-# Hello, 
+### Hi there 👋
 My name is Virgiawan Teguh Kusuma.  
 🌱 I’m currently learning in ZettaCamp Batch 2, provided by Zettabyte Pte. Ltd. as **Front End Developer**.  
 📫 How to reach me:
