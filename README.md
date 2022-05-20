@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Virgiawan Teguh Kusuma.  
-🌱 I’m currently learning in ZettaCamp Batch 2, provided by Zettabyte Pte. Ltd. as **Front End Developer**.  
+🌱 I’m currently learning **Front End Developer**.  
 📫 How to reach me:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
