@@ -1,10 +1,11 @@
 ### Hi there 👋
 My name is Virgiawan Teguh Kusuma.  
-🌱 I’m currently learning **Front End Developer**.  
+🌱 I’m interested in **Front-End Web Developer & Machine Learning**.  
+⚡ I'm Graduated from SIB Kampus Merdeka X Dicoding Indonesia Program Batch 1, specializing in Machine Learning and Front-End Web Developer.  
 📫 How to reach me:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
-[<img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:181240000833@unisnu.ac.id)
+[<img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:virgiawanteguhkusuma@gmail.com)
 [<img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/)
 
 ### Github Statistic
