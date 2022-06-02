@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
 My name is Virgiawan Teguh Kusuma.  
 🌱 I’m interested in **Front-End Web Developer & Machine Learning**.  
 ⚡ I'm Graduated from SIB Kampus Merdeka X Dicoding Indonesia Program Batch 1, specializing in Machine Learning and Front-End Web Developer.  
