@@ -1,6 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
 My name is Virgiawan Teguh Kusuma.  
-🌱 I’m interested in **Front-End Web Developer & Machine Learning**.  
+🌱 I’m currently learning as React Developer at [IDCamp 2022 X Dicoding Indonesia](https://idcamp.ioh.co.id/).  
+🔭 I’m interested in Front-End Web Development & Machine Learning.  
 ⚡ I'm Graduated from SIB Kampus Merdeka X Dicoding Indonesia Program Batch 1, specializing in Machine Learning and Front-End Web Developer.  
 📫 How to reach me:
 
@@ -13,7 +14,6 @@ My name is Virgiawan Teguh Kusuma.
 <a href="#">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virgiawankusuma&layout=compact&langs_count=8&theme=buefy"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=virgiawankusuma&theme=monokai&locale=en&layout=compact" alt="virgiawankusuma"/>
 </a>
 </p>
 
