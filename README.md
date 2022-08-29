@@ -1,8 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
 My name is Virgiawan Teguh Kusuma.  
 🌱 I’m currently learning as React Developer at [IDCamp 2022 X Dicoding Indonesia](https://idcamp.ioh.co.id/).  
-🔭 I’m interested in Front-End Web Development & Machine Learning.  
-⚡ I'm Graduated from SIB Kampus Merdeka X Dicoding Indonesia Program Batch 1, specializing in Machine Learning and Front-End Web Developer.  
 📫 How to reach me:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
@@ -35,4 +33,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭 I’m interested in Front-End Web Development & Machine Learning.  
+⚡ I'm Graduated from SIB Kampus Merdeka X Dicoding Indonesia Program Batch 1, specializing in Machine Learning and Front-End Web Developer. 
 -->
