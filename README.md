@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
 My name is Virgiawan Teguh Kusuma.  
-🌱 I’m currently learning as React Developer at [IDCamp 2022 X Dicoding Indonesia](https://idcamp.ioh.co.id/).  
+🌱 I’m currently learning as React.  
 📫 How to reach me:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
