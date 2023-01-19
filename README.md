@@ -8,6 +8,7 @@ My name is Virgiawan Teguh Kusuma.
 [<img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/)
 
 ### Github Statistic
+<p align="left"><img src="https://komarev.com/ghpvc/?username=virgiawankusuma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views virgiawankusuma" /> </p>
 <p align="left">
 <a href="#">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
