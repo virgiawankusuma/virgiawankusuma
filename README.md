@@ -1,11 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
 My name is Virgiawan Teguh Kusuma.  
-🌱 I’m currently exploring Front End Tech and UX Design.   
-📫 How to reach me:
-
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
-[<img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:181240000833@unisnu.ac.id)
-[<img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/virgiawankusuma/)
+🌱 I’m currently exploring Full-Stack Engineer (MERN) and UX Design.
 
 ### Github Statistic
 <p align="left"><img src="https://komarev.com/ghpvc/?username=virgiawankusuma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views virgiawankusuma" /> </p>
