@@ -1,9 +1,9 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
-My name is Virgiawan Teguh Kusuma.  
-🌱 I’m currently exploring Full-Stack Engineer (MERN) and UX Design.
+My name is Virgiawan.  
+🌱 I’m currently exploring Full-Stack Engineer and UX Design.
 
 ### Github Statistic
-<p align="left"><img src="https://komarev.com/ghpvc/?username=virgiawankusuma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views virgiawankusuma" /> </p>
+<!--<p align="left"><img src="https://komarev.com/ghpvc/?username=virgiawankusuma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views virgiawankusuma" /> </p> -->
 <p align="left">
 <a href="#">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virgiawankusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
