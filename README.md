@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
-My name is Virgiawan.  
-🌱 I’m currently exploring Full-Stack Engineer and UX Design.
+🌱 Every time it rains, a butterfly will rest for a moment, because the rainwater will endanger the butterfly's wings.
+<!--exploring Full-Stack Engineer and UX Design.-->
 
 ### Github Statistic
 <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=virgiawankusuma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views virgiawankusuma" /> </p> -->
